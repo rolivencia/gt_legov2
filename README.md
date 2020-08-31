@@ -8,7 +8,7 @@ Screenshots and an overview are included in the repository. Unfortunately, I was
 
 ## What is each file?
 
-.nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them behaving awkwardly.
+.nav - It's the file that bots used to know how to navigate through a map. It is required for the 1.6 bots to avoid them from behaving awkwardly.
 
 .res - Lists the resources required by the game to be able to download all the map dependencies when downloading the map from a server when you don't have it in your computer.
 
