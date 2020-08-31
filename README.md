@@ -4,6 +4,8 @@ The track is set in a world of LEGO bricks at nighttime. It has a very simple ci
                                                                                                          
 The LEGO-themed textures were originally made by LePrau. The sponsor textures were made by Pitstop. The textures are bundled in the .bsp file, so no custom .wad is required.
 
+Original LEGO textures by LePrau can be downloaded from https://www.17buddies.rocks/17b2/View/Wad/959/praulego.wad.html
+
 Screenshots and an overview are included in the repository. Unfortunately, I was unable to recover the .wad file with the textures nor the .rmf/.map source files.
 
 ## What is each file?
