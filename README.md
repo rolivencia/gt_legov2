@@ -1,4 +1,7 @@
 # gt_legov2
+
+![image](https://user-images.githubusercontent.com/32349705/117911271-dfe2b980-b2b3-11eb-91a1-1e1cf53685bf.png)
+
 A Half-Life Rally 1.1 custom map and original creation, developed between November, 2004 and March, 2005. 
 The track is set in a world of LEGO bricks at nighttime. It has a very simple circuit, with exception of a hard 90-degrees curve.
                                                                                                          
